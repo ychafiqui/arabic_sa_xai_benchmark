@@ -122,20 +122,20 @@ Based on the Combined metric, Ensemble XAI outperforms LIME, SHAP, and IG.
 ## References
 
 *   **Datasets:**
-    *   TripAdvisor hotel reviews [https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv)
-    *   TripAdvisor & Qaym restaurant reviews [https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv)
+    *   [TripAdvisor hotel reviews](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv)
+    *   [TripAdvisor & Qaym restaurant reviews](https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv)
 *   **XAI Methods:**
-    *   [1602.04938] "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [https://arxiv.org/abs/1602.04938](https://arxiv.org/abs/1602.04938)
-    *   [2010.12487] An Analysis of LIME for Text Data - [https://aclanthology.org/2020.emnlp-main.181/](https://aclanthology.org/2020.emnlp-main.181/)
-    *   [1705.07874] A Unified Approach to Interpreting Model Predictions - [https://arxiv.org/abs/1705.07874](https://arxiv.org/abs/1705.07874)
-    *   Welcome to the SHAP documentation - SHAP latest documentation - [https://shap.readthedocs.io/](https://shap.readthedocs.io/)
-    *   Axiomatic Attribution for Deep Networks - [https://arxiv.org/abs/1703.01365](https://arxiv.org/abs/1703.01365)
-    *   Integrated Gradients - [https://captum.ai/docs/integrated_gradients](https://captum.ai/docs/integrated_gradients)
+    *   ["Why Should I Trust You?": Explaining the Predictions of Any Classifier](https://arxiv.org/abs/1602.04938)
+    *   [An Analysis of LIME for Text Data](https://arxiv.org/abs/2010.12487)
+    *   [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874)
+    *   [SHAP documentation](https://shap.readthedocs.io/)
+    *   [Axiomatic Attribution for Deep Networks](https://arxiv.org/abs/1703.01365)
+    *   [Integrated Gradients documentation](https://captum.ai/docs/extension/integrated_gradients)
 
 *   **Evaluation Metrics:**
-    *   Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness? - [https://aclanthology.org/2020.acl-main.16/](https://aclanthology.org/2020.acl-main.16/)
-    *   ERASER: A Benchmark to Evaluate Rationalized NLP Models - [https://aclanthology.org/2020.emnlp-main.393/](https://aclanthology.org/2020.emnlp-main.393/)
-    *   SIDU-TXT: An XAI Algorithm for NLP with a Holistic Assessment Approach - [https://aclanthology.org/2022.acl-long.433/](https://aclanthology.org/2022.acl-long.433/)
+    *   [Towards Faithfully Interpretable NLP Systems: How Should We Define and Evaluate Faithfulness?](https://aclanthology.org/2020.acl-main.386.pdf)
+    *   [ERASER: A Benchmark to Evaluate Rationalized NLP Models](https://aclanthology.org/2020.acl-main.408.pdf)
+    *   [SIDU-TXT: An XAI Algorithm for NLP with a Holistic Assessment Approach](https://arxiv.org/pdf/2402.03043)
 
 For any questions or feedback, please contact:
 
