@@ -122,8 +122,8 @@ Based on the Combined metric, Ensemble XAI outperforms LIME, SHAP, and IG.
 ## References
 
 *   **Datasets:**
-    *   [TripAdvisor hotel reviews] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv)
-    *   [TripAdvisor & Qaym restaurant reviews] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv)
+    *   TripAdvisor hotel reviews [https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/HTL.csv)
+    *   TripAdvisor & Qaym restaurant reviews [https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv] (https://github.com/hadyelsahar/large-arabic-sentiment-analysis-resouces/blob/master/datasets/RES.csv)
 *   **XAI Methods:**
     *   [1602.04938] "Why Should I Trust You?": Explaining the Predictions of Any Classifier - [https://arxiv.org/abs/1602.04938](https://arxiv.org/abs/1602.04938)
     *   [2010.12487] An Analysis of LIME for Text Data - [https://aclanthology.org/2020.emnlp-main.181/](https://aclanthology.org/2020.emnlp-main.181/)
